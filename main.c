@@ -131,7 +131,7 @@ void display_stat() {
 int main()
 {   char tindakan;
     printf("SELAMAT DATANG DI SIN City \n +_+_+_+_+_+_+_+_+_+_+_+\n\n");
-    printf("Hari ini anda akan berberan sebagai: \t  Hilmy\n");
+    printf("Hari ini anda akan berperan sebagai: \t  Hilmy\n");
     printf("Seorang jomblo sejati yang berjuang untuk 'survive' \nTerlahir di lingkungan pembunuh\nDan sedang mencari jati diri\n+=-=-=-=-=-=-=-=-=-=\n\n");
     while(hP > 0){
         miskin = 1;
@@ -179,10 +179,10 @@ int main()
             fP = fP -15;
             hP = hP - 35;
             sP = sP - 25;
-            printf("Karena hygiene terlalu rendah, Hilmy akan dijauhi orang - dan sebagai akibat Hilmuy akan sedih - serta kesehatannya akan menurun.");
+            printf("Karena hygiene terlalu rendah, Hilmy akan dijauhi orang - dan sebagai akibat Hilmy akan sedih - serta kesehatannya akan menurun.");
         }
     }
-    printf("\n\n Hilmy telah meninggal dunia, setelah survive selama %d jam di dunia yg kejam ini.\n", jam);
+    printf("\n\n Hilmy telah meninggal dunia, setelah menderita selama %d jam di dunia yg kejam ini.\n", jam);
     printf("\n---------------- G A M E   O V E R -------------------");
     return 0;
 }
